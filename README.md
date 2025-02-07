@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-
-![Image](https://github.com/user-attachments/assets/37c5408e-4202-42fd-8fea-dfd72c6cb783)
+<div align="center">
+  <img src="[https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB](https://github.com/user-attachments/assets/37c5408e-4202-42fd-8fea-dfd72c6cb783)" />
+<!--  ![Image](https://github.com/user-attachments/assets/37c5408e-4202-42fd-8fea-dfd72c6cb783) -->
+</div>
 
 <br>
 
