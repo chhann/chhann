@@ -1,5 +1,3 @@
-
-
 <!--
 **chhann/chhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,10 @@ Here are some ideas to get you started:
 
 
 
+![Image](https://github.com/user-attachments/assets/df907674-257a-47d8-b7c1-06976aa4d63f)
 
+<br>
+<br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
