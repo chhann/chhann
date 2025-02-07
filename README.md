@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 
 
-![Image](https://github.com/user-attachments/assets/df907674-257a-47d8-b7c1-06976aa4d63f)
+![Image](https://github.com/user-attachments/assets/37c5408e-4202-42fd-8fea-dfd72c6cb783)
 
-<br>
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
